@@ -41,5 +41,9 @@
   "packageManager": "yarn@3.2.3",
   "engines": {
     "node": ">=18.18.0"
+  },
+  "dependencies": {
+    "framer-motion": "^11.11.17",
+    "react-intersection-observer": "^9.13.1"
   }
 }
